@@ -1,6 +1,4 @@
 require "psd"
-require "psd/logger"
-require "psd/image"
 require "oily_png"
 
 module PSDNative
